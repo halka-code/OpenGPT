@@ -26,6 +26,7 @@ Then go to
  ``` src>Components>Chat.jsx ``` 
 
  In there line no 22 replace the apiKey : 'API_key' with your api key .   
+ <p align='center'><img src='./public/code.png'></p>
  <small>Note : Only replace the api key </small>
 
 Then  again open CMD and type 
@@ -40,3 +41,7 @@ npm run dev
 #### Hope you keep my request 
 
 <h2>Made With Love By <a href='https://github.com/CodeWithHasib'>Hasib Hossain</a> ❤️❤️❤️❤️ </h2>
+  
+<small>Any Problem ? Fell Free To Contact me : ```admin@rakibul.tech```</small>
+
+<!-- [Image Description](./public/code.png) -->
