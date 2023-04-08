@@ -19,8 +19,7 @@ function Chat() {
         setUserMessage(e.target.value);
     }
     const openAi = new OpenAIApi(new Configuration({
-        apiKey: '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',
-        organization: 'org-8t5x6kpxxlTimUYxlBJCvzfJ'
+        apiKey: 'API_KEY',
     }));
     const chat = () => {
         setIsLoading(true);
