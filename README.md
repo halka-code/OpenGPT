@@ -37,8 +37,10 @@ npm run dev
 
 <p>This is a fun project 🥲 </p>
 
-## I have a request please Follow me in Github for more interesting project 🥺🥺 . 
+## I have a request please Follow me in Github for more interesting project  . 
 #### Hope you keep my request 
+
+### If you have any FeedBack Please Contact me . 
 
 <h2>Made With Love By <a href='https://github.com/CodeWithHasib'>Hasib Hossain</a> ❤️❤️❤️❤️ </h2>
   
